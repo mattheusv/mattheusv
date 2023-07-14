@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently software enginner at Gympass mostly writing Go code on a distrbuited system environment.
+I'm passionate about databases, particularly storage engine and query execution. 
+
+## 📝 Projects
+I've build the [tinydb](https://github.com/msAlcantara/tinydb), a simple database based on Postgresql, if you are curiousu about databases please check it out.
+
 <!--
 **msAlcantara/msAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
